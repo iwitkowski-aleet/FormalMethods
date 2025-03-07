@@ -1,0 +1,5 @@
+keras==2.13.1
+tensorflow==2.13.0
+numpy
+nptyping==2.4.1
+z3_solver==4.8.13.0
